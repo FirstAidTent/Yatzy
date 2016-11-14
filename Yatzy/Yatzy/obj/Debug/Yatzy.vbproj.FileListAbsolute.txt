@@ -1,0 +1,20 @@
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\bin\Debug\Yatzy.exe
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\bin\Debug\Yatzy.pdb
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\bin\Debug\Yatzy.xml
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\obj\Debug\ResolveAssemblyReference.cache
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\obj\Debug\Yatzy.Form1.resources
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\obj\Debug\Yatzy.Resources.resources
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\obj\Debug\Yatzy.vbproj.GenerateResource.Cache
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\obj\Debug\Yatzy.exe
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\obj\Debug\Yatzy.xml
+C:\Användare\Andy Dang\Lokala inställningar\Application Data\Temporary Projects\Yatzy\obj\Debug\Yatzy.pdb
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\obj\Debug\Yatzy.exe
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\obj\Debug\Yatzy.xml
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\obj\Debug\Yatzy.pdb
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\bin\Debug\Yatzy.exe
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\bin\Debug\Yatzy.pdb
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\bin\Debug\Yatzy.xml
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\obj\Debug\ResolveAssemblyReference.cache
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\obj\Debug\Yatzy.Form1.resources
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\obj\Debug\Yatzy.Resources.resources
+C:\Användare\Andy Dang\Skrivbord\Visual Basic Saker\Yatzy\Yatzy\obj\Debug\Yatzy.vbproj.GenerateResource.Cache
