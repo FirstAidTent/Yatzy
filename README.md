@@ -1,2 +1,2 @@
 # Yatzy
-Ett simpelt spel av Yatzy som är gjort i Visual Basic.
+A simple Yahtzee game written in Visual Basic
